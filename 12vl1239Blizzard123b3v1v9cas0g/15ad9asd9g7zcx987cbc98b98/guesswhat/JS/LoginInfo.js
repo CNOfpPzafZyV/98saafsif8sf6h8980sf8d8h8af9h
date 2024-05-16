@@ -43,7 +43,7 @@ function guestUserJoke(){
       //Kenji Owens
       if(document.getElementById('username').value == 'kenjiowen3'){
         if(document.getElementById('passcode').value == 'bloons'){
-          location.href = "https://cnofppzafzyv.github.io/98saafsif8sf6h8980sf8d8h8af9h/12vl1239Blizzard123b3v1v9cas0g/15ad9asd9g7zcx987cbc98b98/guesswhat/aV12519x12eJv01jeAsd91jaS09190Xxx/burgerwopperwithUturnSignsForLifeonchair";
+          location.href = "https://cnofppzafzyv.github.io/98saafsif8sf6h8980sf8d8h8af9h/12vl1239Blizzard123b3v1v9cas0g/15ad9asd9g7zcx987cbc98b98/guesswhat/Kenji10asd9gisdg89sf56g67axc78afd898sadf/burgerwopperwithUturnSignsForLifeonchair";
         } else {
           location.href = "https://cnofppzafzyv.github.io/98saafsif8sf6h8980sf8d8h8af9h/12vl1239Blizzard123b3v1v9cas0g/15ad9asd9g7zcx987cbc98b98/guesswhat/guestaV12519x12eJv01jeAsd91jaS09190Xxx/burgerwopperwithUturnSignsForLifeonchair/index.html"
           return false;
