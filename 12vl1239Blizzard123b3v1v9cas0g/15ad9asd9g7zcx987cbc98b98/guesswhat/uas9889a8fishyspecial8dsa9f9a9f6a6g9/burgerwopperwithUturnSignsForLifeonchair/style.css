@@ -12,6 +12,7 @@ body{
 .section {
   display: inline-block;
   width: 150px;
+  height: 100%;
 }
 
 .button {
